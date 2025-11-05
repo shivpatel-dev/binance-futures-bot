@@ -1,0 +1,35 @@
+2025-11-05 09:42:47,965 | INFO | Booting… ENV=TESTNET WEBSOCKET_ENABLED=True, PARTIAL_POLICY=ATTACH_AND_CANCEL, DRY_RUN=True, LOG_LEVEL=INFO, VERBOSE_ALERTS=True | Channel: 3228312140 | Log file: c:\binance_bot\bot.log | Keys: api=*** secret=***
+2025-11-05 09:42:47,965 | INFO | Connecting to 91.108.56.175:443/TcpFull...
+2025-11-05 09:42:48,146 | INFO | Connection to 91.108.56.175:443/TcpFull complete!
+2025-11-05 09:42:49,658 | INFO | Resolved channel entity: 3228312140
+2025-11-05 09:42:49,659 | INFO | ALERT: Bot online. Booting… ENV=TESTNET WEBSOCKET_ENABLED=True, PARTIAL_POLICY=ATTACH_AND_CANCEL, DRY_RUN=True, LOG_LEVEL=INFO, VERBOSE_ALERTS=True | Channel: 3228312140 | Log file: c:\binance_bot\bot.log | Keys: api=*** secret=***
+2025-11-05 09:42:50,284 | INFO | ALERT: Position mode: ONE_WAY
+2025-11-05 09:42:50,285 | INFO | Listening on channel id 3228312140 …
+2025-11-05 09:42:50,601 | INFO | ALERT: Probe PEOPLEUSDT: present=True, mark=0.01008279
+2025-11-05 09:42:50,756 | INFO | ALERT: Probe BTCUSDT: present=True, mark=101990.4
+2025-11-05 09:42:50,756 | INFO |  Bot is now fully operational and waiting for messages…
+2025-11-05 09:43:10,018 | INFO | [DEBUG MSG] From chat -1003228312140 — Coin: #BNBUSDT
+
+Direction: Long
+
+Leverage: 5-10x
+
+#BNB has already broken out of the cup and handle pattern and is looking bullish.
+
+Entry: 1165 - 114
+2025-11-05 09:43:10,019 | INFO | [handle_event]  Message detected from channel: -1003228312140, text: Coin: #BNBUSDT
+
+Direction: Long
+
+Leverage: 5-10x
+
+#BNB has already broken out of the cup and handle 
+2025-11-05 09:43:10,184 | INFO | ALERT: ⏳ [BNBUSDT] Waiting up to 120s for range 1140.0–1165.0 (current mark=948.47992636)
+2025-11-05 09:43:10,333 | INFO | ALERT: ⏳ [BNBUSDT] waiting… need mark in 1140.0–1165.0, current=948.47992636
+2025-11-05 09:43:28,430 | INFO | ALERT: [BNBUSDT] Auto-cleanup: canceled remaining open orders.
+2025-11-05 09:43:41,262 | INFO | ALERT: ⏳ [BNBUSDT] waiting… need mark in 1140.0–1165.0, current=948.38
+2025-11-05 09:43:48,821 | INFO | ALERT: [BNBUSDT] Auto-cleanup: canceled remaining open orders.
+2025-11-05 09:43:54,185 | INFO | Disconnecting from 91.108.56.175:443/TcpFull...
+2025-11-05 09:43:54,186 | INFO | Disconnection from 91.108.56.175:443/TcpFull complete!
+2025-11-05 09:43:54,190 | INFO | Not disconnecting (already have no connection)
+2025-11-05 09:43:54,197 | INFO | Bot disconnected cleanly.
